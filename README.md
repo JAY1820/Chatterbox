@@ -55,7 +55,6 @@ Follow these steps to set up the project locally:
 
 - **Backend:**
   - Node.js
-  - Express.js
 
 ## Contributing
 
